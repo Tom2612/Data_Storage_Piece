@@ -176,7 +176,7 @@ h1{
         width: 50px;
         background-color: transparent;
         position: absolute;
-        transform: translateY(-40px) translateX(390px);
+        transform: translateY(-50px) translateX(390px);
         border-right: 50px solid white;
         border-bottom: 50px solid transparent;
     }
@@ -225,7 +225,7 @@ h1{
         width: 50px;
         background-color: transparent;
         position: absolute;
-        transform: translateY(-40px) translateX(230px);
+        transform: translateY(-50px) translateX(230px);
         border-right: 50px solid white;
         border-bottom: 50px solid transparent;
     }
